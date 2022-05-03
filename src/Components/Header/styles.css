@@ -1,0 +1,16 @@
+header{
+    background-image: var(--dark-layer), var(--header_bg_image);
+    background-size: cover;
+    background-position: center;
+    height: 45vh;
+    box-sizing: border-box;
+    color: var(--table-head-bg);
+    padding: 2% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.menu{
+    display: flex;
+}

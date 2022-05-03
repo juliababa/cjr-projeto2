@@ -1,0 +1,12 @@
+.site-menu{
+    position: absolute;
+    right: 95px;
+    display: grid;
+    grid-auto-flow: column;
+    grid-column-gap: 32px;
+}
+
+.site-menu .right-menu-text:hover{
+    color: var(--nav-link-hover-color);
+    cursor: pointer;
+}

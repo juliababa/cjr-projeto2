@@ -1,0 +1,8 @@
+.backoffice-menu {
+    background-color: var(--backoffice-menu-bg);
+    color: var(--nav-links-color);
+    font-size: 0.7rem;
+    padding: 1rem 5%;
+    display: flex;
+    column-gap: 2rem;
+}
